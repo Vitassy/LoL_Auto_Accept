@@ -1,10 +1,9 @@
+from tkinter import *
 import os
 
 #Lib used to search img and move mouse
 import pyautogui
 
-#Lib used to make the window and interact with it
-from tkinter import *
 
 
 #Main function
