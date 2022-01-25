@@ -1,9 +1,7 @@
 from tkinter import *
 import os
-
 #Lib used to search img and move mouse
 import pyautogui
-
 
 
 #Main function
@@ -21,7 +19,6 @@ def img():
         toggle_button.config(text='ON')
         print("Someone didn't accept!")
     root.after(2000,img)
-
 
 #Get Language
 def Lang():
@@ -66,5 +63,3 @@ Lang()
 #Loop
 root.after(2000,img)
 root.mainloop()
-
-
