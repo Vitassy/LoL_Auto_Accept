@@ -1,0 +1,8 @@
+Language = Francais
+
+----
+
+Currently supported:
+
+*Francais
+*English
