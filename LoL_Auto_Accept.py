@@ -37,8 +37,6 @@ def Lang():
     text=text.strip()
 
     os.chdir(os.path.join(path,text))
-    path = os.getcwd()
-    print(path)
     
 #Button on/off
 def Simpletoggle():
