@@ -5,7 +5,7 @@ How to compile the code into an .exe using cx_Freeze (https://cx-freeze.readthed
 
 - Open your command prompt and move to the directory where the script is
 - Type "python setup.py build" or "python3 setup.py build" depending on your version of python
-- The .exe should appear in "\build\exe.win-amd64-3.9\"
+- The .exe should appear in "\build\exe.win-amd64-3.9\\"
 - Copy the "Language" folder and "icon.ico" in the same folder as your .exe
 - Enjoy !
 
