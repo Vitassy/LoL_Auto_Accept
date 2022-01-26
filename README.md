@@ -1,5 +1,3 @@
-"#Lol_Auto_Accept" 
-
 Already compiled file (the .exe) download link : 
 - https://mega.nz/file/S8xmFY4I#VMKhsp5-y0uB6uTK-Fa73VjeT30FdiFSDZDCW-TW9_c
 
