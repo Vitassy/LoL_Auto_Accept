@@ -10,6 +10,7 @@ Features:
 - If someone didn't accept the game the program will switch to "on" mode to search again
 - That's it !
 
+
 How to add your own language :
 - Take a screenshot of the "accept" button of your game and cut it to only have the button using any image edit software (from paint to photoshop the choice is yours) and rename it "accept.png"
 - Do the same when someone doesn't accept the game (just take a part of the sentence like "declined ready check") and rename it "notaccept.png"
