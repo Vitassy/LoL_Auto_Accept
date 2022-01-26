@@ -4,6 +4,11 @@ Already compiled file (the .exe) download link :
 - https://mega.nz/file/S8xmFY4I#VMKhsp5-y0uB6uTK-Fa73VjeT30FdiFSDZDCW-TW9_c
 
 
+Features:
+- Click on the on/off button to start the search of a staring game
+- The programm will automatically set to off once it found the game so no risk of clicking somewhere once you've started the game
+- If someone didn't accept the game the program will switch to "on" mode to search again
+- That's it !
 
 How to add your own language :
 - Take a screenshot of the "accept" button of your game and cut it to only have the button using any image edit software (from paint to photoshop the choice is yours) and rename it "accept.png"
