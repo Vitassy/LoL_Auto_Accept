@@ -1,5 +1,9 @@
 "#Lol_Auto_Accept" 
 
+Already compiled file (the .exe) download link : 
+- https://mega.nz/file/S8xmFY4I#VMKhsp5-y0uB6uTK-Fa73VjeT30FdiFSDZDCW-TW9_c
+
+
 
 How to add your own language :
 - Take a screenshot of the "accept" button of your game and cut it to only have the button using any image edit software (from paint to photoshop the choice is yours) and rename it "accept.png"
