@@ -7,7 +7,7 @@ import pyautogui
 #Main function
 def img():
     if toggle_button.config('text')[-1] == 'ON' :
-        print ("Recherche en cours")
+        print ("Searching for a game")
         imglocation = pyautogui.locateCenterOnScreen('accept.png', confidence=0.7)
         if imglocation != None:
             toggle_button.config(text='OFF')
