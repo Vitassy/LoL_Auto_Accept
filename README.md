@@ -3,7 +3,7 @@ Already compiled file (the .exe) download link :
 
 
 Features:
-- Click on the on/off button to start the search of a staring game
+- Click on the on/off button to beggin the search of a starting game
 - The programm will automatically set to "off" once it found the game so no risk of clicking somewhere once you've started the game
 - If someone didn't accept the game the program will switch to "on" mode to search again
 - That's it !
