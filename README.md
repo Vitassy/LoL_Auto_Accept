@@ -12,7 +12,7 @@ Features:
 How to add your own language (English and French already included) :
 - Take a screenshot of the "accept" button of your game and cut it to only have the button using any image edit software (from paint to photoshop the choice is yours) and rename it "accept.png"
 - Do the same when someone doesn't accept the game (just take a part of the sentence like "declined ready check") and rename it "notaccept.png"
-- The images don't have to be precise just be carefull you don't have any background showing and save them to .png
+- The pictures don't have to be precise just be carefull you don't have any background showing and save them to .png
 - Create a new folder inside the "Languages" one (call it wathever you want but i reccomand using the language you're aiming to add) and put the two images you just cropped inside it.
 - Open the "Option.txt" file located in the "Languages" folder. Change the first line to "Language = [The name of the folder you just created]"
 - This should work !
